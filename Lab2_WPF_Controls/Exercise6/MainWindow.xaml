@@ -1,0 +1,38 @@
+﻿<Window x:Class="Exercise6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+                Title="CheckBox variations" Height="300" Width="300">
+    <Grid>
+
+        <StackPanel Orientation="Vertical">
+            <CheckBox Margin="0 8" Content="Standard checkbox"/>
+
+            <CheckBox Margin="0 8" IsChecked="True">
+                <Border CornerRadius="1" BorderBrush="Yellow" HorizontalAlignment="Left" BorderThickness="3" Padding="10">
+                    <StackPanel HorizontalAlignment="Left" Orientation="Vertical">
+                        <Image HorizontalAlignment="Left" Height="15" Width="15" Source="./images/kameleon.jpg"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Padding="5 0" Text="Kameleon" Foreground="Blue"/>
+                            <TextBlock Padding="5 0" Text="Checkbox" Foreground="Red"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+            </CheckBox>
+
+            <CheckBox Margin="0 8">
+                <TextBlock Foreground="White" FontWeight="Bold">
+                    <TextBlock.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                            <GradientStop Color="Red" Offset="0" />
+                            <GradientStop Color="Blue" Offset="0.9" />
+                        </LinearGradientBrush>
+                    </TextBlock.Background>
+                            CheckBox Label
+                </TextBlock>
+            </CheckBox>
+        </StackPanel>
+    </Grid>
+</Window>

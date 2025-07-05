@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AB6939-A750-4864-BDEC-EE36D1577E06}|Exercise4\\Exercise4.csproj|c:\\users\\tim\\documents\\dotnetexpert\\mainrepo\\lab2_wpf_controls\\exercise4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91AB6939-A750-4864-BDEC-EE36D1577E06}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3140D4D8-DC0D-46CA-926F-ADCF52C3B0B8}|Exercise3\\Exercise3.csproj|c:\\users\\tim\\documents\\dotnetexpert\\mainrepo\\lab2_wpf_controls\\exercise3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3140D4D8-DC0D-46CA-926F-ADCF52C3B0B8}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D7702E-1BB0-43BC-824F-26E5CE27DDC6}|Exercise6\\Exercise6.csproj|c:\\users\\tim\\documents\\dotnetexpert\\mainrepo\\lab2_wpf_controls\\exercise6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{25D7702E-1BB0-43BC-824F-26E5CE27DDC6}|Exercise6\\Exercise6.csproj|solutionrelative:exercise6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A084C47D-26E2-4A11-B45F-5371E4F8967B}|Exercise5\\Exercise5.csproj|c:\\users\\tim\\documents\\dotnetexpert\\mainrepo\\lab2_wpf_controls\\exercise5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A084C47D-26E2-4A11-B45F-5371E4F8967B}|Exercise5\\Exercise5.csproj|solutionrelative:exercise5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A084C47D-26E2-4A11-B45F-5371E4F8967B}|Exercise5\\Exercise5.csproj|c:\\users\\tim\\documents\\dotnetexpert\\mainrepo\\lab2_wpf_controls\\exercise5\\exercise5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A084C47D-26E2-4A11-B45F-5371E4F8967B}|Exercise5\\Exercise5.csproj|solutionrelative:exercise5\\exercise5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AB6939-A750-4864-BDEC-EE36D1577E06}|Exercise4\\Exercise4.csproj|c:\\users\\tim\\documents\\dotnetexpert\\mainrepo\\lab2_wpf_controls\\exercise4\\exercise4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91AB6939-A750-4864-BDEC-EE36D1577E06}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\exercise4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3140D4D8-DC0D-46CA-926F-ADCF52C3B0B8}|Exercise3\\Exercise3.csproj|c:\\users\\tim\\documents\\dotnetexpert\\mainrepo\\lab2_wpf_controls\\exercise3\\exercise3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3140D4D8-DC0D-46CA-926F-ADCF52C3B0B8}|Exercise3\\Exercise3.csproj|solutionrelative:exercise3\\exercise3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDBB655-17AD-4F44-83A2-44437719429C}|Exercise2\\Exercise2.csproj|c:\\users\\tim\\documents\\dotnetexpert\\mainrepo\\lab2_wpf_controls\\exercise2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FDBB655-17AD-4F44-83A2-44437719429C}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDBB655-17AD-4F44-83A2-44437719429C}|Exercise2\\Exercise2.csproj|c:\\users\\tim\\documents\\dotnetexpert\\mainrepo\\lab2_wpf_controls\\exercise2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDBB655-17AD-4F44-83A2-44437719429C}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Exercise4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise4\\MainWindow.xaml",
+              "RelativeToolTip": "Exercise4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T10:13:39.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Exercise6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise6\\MainWindow.xaml",
+              "RelativeToolTip": "Exercise6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T10:13:25.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Exercise5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise5\\MainWindow.xaml",
+              "RelativeToolTip": "Exercise5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T10:13:11.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercise5",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise5\\Exercise5.csproj",
+              "RelativeDocumentMoniker": "Exercise5\\Exercise5.csproj",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise5\\Exercise5.csproj",
+              "RelativeToolTip": "Exercise5\\Exercise5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T10:13:06.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercise4",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise4\\Exercise4.csproj",
+              "RelativeDocumentMoniker": "Exercise4\\Exercise4.csproj",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise4\\Exercise4.csproj",
+              "RelativeToolTip": "Exercise4\\Exercise4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T10:13:03.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Exercise3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise3\\MainWindow.xaml",
+              "RelativeToolTip": "Exercise3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T10:13:00.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercise3",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise3\\Exercise3.csproj",
+              "RelativeDocumentMoniker": "Exercise3\\Exercise3.csproj",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise3\\Exercise3.csproj",
+              "RelativeToolTip": "Exercise3\\Exercise3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T10:12:55.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Exercise2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise2\\MainWindow.xaml",
+              "RelativeToolTip": "Exercise2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T10:12:44.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Exercise2\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetExpert\\MainRepo\\Lab2_WPF_Controls\\Exercise2\\AssemblyInfo.cs",
+              "RelativeToolTip": "Exercise2\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:12:42.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿<Window x:Class="Exercise2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="gridButton" Grid.Row="0" Grid.Column="0" Margin="10" Content="Grid" FontSize="30" FontWeight="Bold" Click="gridButton_Click"/>
+        <Button x:Name="stackPanelButton" Grid.Row="0" Grid.Column="1" Margin="10" Content="StackPanel" FontSize="30" FontWeight="Bold" Click="stackPanelButton_Click"/>
+        <Button x:Name="wrapPanelButton" Grid.Row="1" Grid.Column="0" Margin="10" Content="WrapPanel" FontSize="30" FontWeight="Bold" Click="wrapPanelButton_Click"/>
+        <Button x:Name="dockPanelButton" Grid.Row="1" Grid.Column="1" Margin="10" Content="DockPanel" FontSize="30" FontWeight="Bold" Click="dockPanelButton_Click"/>
+
+    </Grid>
+</Window>
